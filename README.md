@@ -1,3 +1,4 @@
 # signal_ctc
 
-Schmidl&cox algorithm is the most famous WiFi OFDM preamble detection algorithm
+Schmidl&cox is the most famous WiFi OFDM preamble detection algorithm.
+"schmidl&cox.grc" is the implementation of this on Gnuradio.
